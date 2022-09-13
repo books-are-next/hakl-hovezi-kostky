@@ -176,10 +176,10 @@ Křápek mě provrtává otřesně sebejistým pohledem. Od zdi na mě hledí č
 
 Smrťák ve vestě natočí dva mázy husté břečky do obrovských těžkých sklenic. Když je beru, podotkne cosi jako: „Kinda sat isn’t it for ladies, ye, ya.“
 
-__This is England, the land of illegal dances,  
+_This is England, the land of illegal dances,  
 this is England, land of a thousand stances,  
 this is England, this knife of Sheffield steel,  
-this is England, this is how wefeel_, duní mi do týla._
+this is England, this is how wefeel_, duní mi do týla.
 
 </section>
 

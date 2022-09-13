@@ -1,0 +1,298 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Hovězí kostky",
+  "author": "Emil Hakl",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hakl-hovezi-kostky-4fdf57a",
+  "revision": "4fdf57a",
+  "readingOrder": [
+    "promo.html",
+    "hovezi_kostky_005.html",
+    "hovezi_kostky_006.html",
+    "hovezi_kostky_007.html",
+    "hovezi_kostky_008.html",
+    "hovezi_kostky_009.html",
+    "hovezi_kostky_010.html",
+    "hovezi_kostky_011.html",
+    "hovezi_kostky_012.html",
+    "hovezi_kostky_013.html",
+    "hovezi_kostky_014.html",
+    "hovezi_kostky_015.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Tue Sep 13 2022 10:28:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1663064897680
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "hovezi_kostky_005.html",
+      "toc": []
+    },
+    {
+      "title": "Miliónový časy",
+      "file": "hovezi_kostky_005.html",
+      "words": 4236,
+      "chars": 25184,
+      "ideas": 193,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "hovezi_kostky_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Miliónový časy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Démoni ticha",
+      "file": "hovezi_kostky_006.html",
+      "words": 2970,
+      "chars": 17975,
+      "ideas": 147,
+      "role": "chapter",
+      "order": 2,
+      "prev": "hovezi_kostky_005.html",
+      "next": "hovezi_kostky_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Démoni ticha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzácná paní, to se ví…",
+      "file": "hovezi_kostky_007.html",
+      "words": 3514,
+      "chars": 21181,
+      "ideas": 197,
+      "role": "chapter",
+      "order": 3,
+      "prev": "hovezi_kostky_006.html",
+      "next": "hovezi_kostky_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vzácná paní, to se ví…",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ztracené odpoledne",
+      "file": "hovezi_kostky_008.html",
+      "words": 5058,
+      "chars": 30385,
+      "ideas": 260,
+      "role": "chapter",
+      "order": 4,
+      "prev": "hovezi_kostky_007.html",
+      "next": "hovezi_kostky_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ztracené odpoledne",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rychlá verze",
+      "file": "hovezi_kostky_009.html",
+      "words": 2457,
+      "chars": 14856,
+      "ideas": 112,
+      "role": "chapter",
+      "order": 5,
+      "prev": "hovezi_kostky_008.html",
+      "next": "hovezi_kostky_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rychlá verze",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Planeta Žižkov",
+      "file": "hovezi_kostky_010.html",
+      "words": 3152,
+      "chars": 19260,
+      "ideas": 126,
+      "role": "chapter",
+      "order": 6,
+      "prev": "hovezi_kostky_009.html",
+      "next": "hovezi_kostky_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Planeta Žižkov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Deštník z Londýna",
+      "file": "hovezi_kostky_011.html",
+      "words": 3628,
+      "chars": 21953,
+      "ideas": 181,
+      "role": "chapter",
+      "order": 7,
+      "prev": "hovezi_kostky_010.html",
+      "next": "hovezi_kostky_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Deštník z Londýna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hovězí kostky",
+      "file": "hovezi_kostky_012.html",
+      "words": 4735,
+      "chars": 28154,
+      "ideas": 291,
+      "role": "chapter",
+      "order": 8,
+      "prev": "hovezi_kostky_011.html",
+      "next": "hovezi_kostky_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hovězí kostky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Monolog",
+      "file": "hovezi_kostky_013.html",
+      "words": 2117,
+      "chars": 12652,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 9,
+      "prev": "hovezi_kostky_012.html",
+      "next": "hovezi_kostky_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Monolog",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Návštěva",
+      "file": "hovezi_kostky_014.html",
+      "words": 6477,
+      "chars": 40071,
+      "ideas": 264,
+      "role": "chapter",
+      "order": 10,
+      "prev": "hovezi_kostky_013.html",
+      "next": "hovezi_kostky_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Návštěva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čajovna",
+      "file": "hovezi_kostky_015.html",
+      "words": 860,
+      "chars": 5196,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 11,
+      "prev": "hovezi_kostky_014.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čajovna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 132,
+      "chars": 853,
+      "ideas": 16,
+      "role": "about",
+      "order": null,
+      "prev": "hovezi_kostky_015.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 39342,
+      "chars": 237753,
+      "ideas": 1889
+    },
+    "chapters": {
+      "words": 39204,
+      "chars": 236867,
+      "ideas": 1869
+    }
+  }
+}
