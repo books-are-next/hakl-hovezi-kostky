@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hakl-hovezi-kostky-b2fb432",
-  "revision": "b2fb432",
+  "identifier": "hakl-hovezi-kostky-00feead",
+  "revision": "00feead",
   "readingOrder": [
     "promo.html",
     "hovezi_kostky_005.html",
@@ -26,8 +26,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:49:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150589866
+    "date": "Mon Oct 10 2022 15:41:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416480139
   },
   "documents": [
     {
@@ -266,7 +266,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 130,
-      "chars": 853,
+      "chars": 854,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -286,7 +286,7 @@
   "totals": {
     "all": {
       "words": 39340,
-      "chars": 237753,
+      "chars": 237754,
       "ideas": 1887
     },
     "chapters": {
