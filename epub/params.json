@@ -9,7 +9,8 @@
       "modified": "2021-07-29T00:00:00.000Z",
       "edition": "beletrie",
       "publisherShort": "mkp",
-      "contentType": "prose"
+      "contentType": "prose",
+      "isbn": "978-80-274-2801-4"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -96,8 +97,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Miliónový časy"
+            "title": "Miliónový časy",
+            "children": []
           },
           {
             "filename": "hovezi_kostky_006.md",
@@ -109,8 +110,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Démoni ticha"
+            "title": "Démoni ticha",
+            "children": []
           },
           {
             "filename": "hovezi_kostky_007.md",
@@ -122,8 +123,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Vzácná paní, to se ví…"
+            "title": "Vzácná paní, to se ví…",
+            "children": []
           },
           {
             "filename": "hovezi_kostky_008.md",
@@ -135,8 +136,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ztracené odpoledne"
+            "title": "Ztracené odpoledne",
+            "children": []
           },
           {
             "filename": "hovezi_kostky_009.md",
@@ -148,8 +149,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Rychlá verze"
+            "title": "Rychlá verze",
+            "children": []
           },
           {
             "filename": "hovezi_kostky_010.md",
@@ -161,8 +162,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Planeta Žižkov"
+            "title": "Planeta Žižkov",
+            "children": []
           },
           {
             "filename": "hovezi_kostky_011.md",
@@ -174,8 +175,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Deštník z Londýna"
+            "title": "Deštník z Londýna",
+            "children": []
           },
           {
             "filename": "hovezi_kostky_012.md",
@@ -187,8 +188,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Hovězí kostky"
+            "title": "Hovězí kostky",
+            "children": []
           },
           {
             "filename": "hovezi_kostky_013.md",
@@ -200,8 +201,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Monolog"
+            "title": "Monolog",
+            "children": []
           },
           {
             "filename": "hovezi_kostky_014.md",
@@ -213,8 +214,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Návštěva"
+            "title": "Návštěva",
+            "children": []
           },
           {
             "filename": "hovezi_kostky_015.md",
@@ -226,8 +227,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Čajovna"
+            "title": "Čajovna",
+            "children": []
           },
           {
             "filename": "hovezi_kostky_016.md",
@@ -425,6 +426,6 @@
       "user": "books-are-next",
       "repo": "hakl-hovezi-kostky"
     },
-    "generatedAt": 1662986828617
+    "generatedAt": 1665415533647
   }
 }
