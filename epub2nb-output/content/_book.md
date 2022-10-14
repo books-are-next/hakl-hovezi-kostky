@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2801-4
 readingOrder:
   - promo.html
   - hovezi_kostky_005.html
